@@ -1,0 +1,5 @@
+To Compile graphics.h
+$ gcc filename.c -lgraph 
+To Compile Glut:
+$ gcc filename.c -lglut -lGLU -lGL
+
